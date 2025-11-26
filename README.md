@@ -7,7 +7,7 @@ Software to be used: CST studio suite 2019 (Student edition)
 
 **Mathematical Calculation**
 
-<img width="601" height="420" alt="image" src="https://github.com/user-attachments/assets/b6c74464-e862-4d26-be7c-e76738107067" />
+<img width="601" height="420" alt="image" src="https://github.com/user-attachments/assets/b6c74464-e862-4d26-be7c-e76738107067." />
 
 Width of the quarter wave line=1.138 mmWidth of the stripline=2.93 mm
 Height of the substrate=1.6 mmZ0=50 ohm,ZL=123 ohm Zo’=√(50*123)= 78.42 ohm
